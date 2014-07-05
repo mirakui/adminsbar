@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://adminsbar.mirakui.com/adminsbar/sitemap.xml 
+Sitemap: http://adminsbar.mirakui.com//sitemap.xml 
