@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mirakui.github.io/adminsbar/sitemap.xml 
+Sitemap: http://adminsbar.mirakui.com/adminsbar/sitemap.xml 
