@@ -4,7 +4,7 @@
   <title><![CDATA[Admins Bar]]></title>
   <link href="http://adminsbar.mirakui.com/atom.xml" rel="self"/>
   <link href="http://adminsbar.mirakui.com/"/>
-  <updated>2014-07-05T18:01:28+09:00</updated>
+  <updated>2014-07-06T13:51:00+09:00</updated>
   <id>http://adminsbar.mirakui.com/</id>
   <author>
     <name><![CDATA[mirakui]]></name>
@@ -14,20 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[2: Foo Bar]]></title>
-    <link href="http://adminsbar.mirakui.com/2/"/>
-    <updated>2014-07-05T16:57:38+09:00</updated>
-    <id>http://adminsbar.mirakui.com/2</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[1: MySQL in the Real World]]></title>
     <link href="http://adminsbar.mirakui.com/1/"/>
     <updated>2014-07-05T16:33:17+09:00</updated>
     <id>http://adminsbar.mirakui.com/1</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/con_mame">@con_mame</a> さんと <a href="https://twitter.com/mineroaoki">@mineroaoki</a> さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</p>
+    <content type="html"><![CDATA[<p><audio id="player2" src="http://s3-ap-northeast-1.amazonaws.com/adminsbar/media/_adminsbar-01.mp3" type="audio/mp3" controls="controls"></audio></p>
+
+<p><a href="https://twitter.com/con_mame">@con_mame</a> さんと <a href="https://twitter.com/mineroaoki">@mineroaoki</a> さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</p>
 ]]></content>
   </entry>
   
