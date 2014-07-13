@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedpress="http://feedpress.it/xmlns" version="2.0">
+  <channel>
+    <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <title>Admins Bar</title>
+    <generator>Octopress</generator>
+    <link>http://adminsbar.mirakui.com</link>
+    <itunes:author>Issei Naruta</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://adminsbar.mirakui.com/images/itunes-cover.png"/>
+    <itunes:keywords>tech,technology,programming,ruby,web,mirakui,development,operations,devops,server,software</itunes:keywords>
+    <itunes:subtitle>DevOps Podcast by mirakui</itunes:subtitle>
+    <itunes:summary>DevOps関連の情報や、Webサービスのインフラ系技術について話すPodcastです。</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Issei Naruta</itunes:name>
+      <itunes:email>mimitako@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <item>
+      <title>1: MySQL in the Real World</title>
+      <description><p><a href="https://twitter.com/con_mame">@con_mame</a> さんと <a href="https://twitter.com/mineroaoki">@mineroaoki</a> さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</p>
+
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+
+<ul>
+<li><a href="http://dev.mysql.com/">MySQL</a></li>
+</ul>
+
+</description>
+      <link>http://adminsbar.mirakui.com/1/</link>
+      <pubDate>2014-07-05T16:33:17+09:00</pubDate>
+      <guid>http://adminsbar.mirakui.com/1</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:duration>12:34</itunes:duration>
+      <enclosure url="http://s3-ap-northeast-1.amazonaws.com/adminsbar/media/adminsbar-01.mp3" type="audio/mpeg" length="123456"/>
+    </item>
+    
+  </channel>
+</rss>

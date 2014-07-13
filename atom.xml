@@ -4,7 +4,7 @@
   <title><![CDATA[Admins Bar]]></title>
   <link href="http://adminsbar.mirakui.com/atom.xml" rel="self"/>
   <link href="http://adminsbar.mirakui.com/"/>
-  <updated>2014-07-13T18:11:55+09:00</updated>
+  <updated>2014-07-13T22:25:09+09:00</updated>
   <id>http://adminsbar.mirakui.com/</id>
   <author>
     <name><![CDATA[mirakui]]></name>
@@ -18,9 +18,17 @@
     <link href="http://adminsbar.mirakui.com/1/"/>
     <updated>2014-07-05T16:33:17+09:00</updated>
     <id>http://adminsbar.mirakui.com/1</id>
-    <content type="html"><![CDATA[<p><audio id="player2" src="http://s3-ap-northeast-1.amazonaws.com/adminsbar/media/_adminsbar-01.mp3" type="audio/mp3" controls="controls"></audio></p>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/con_mame">@con_mame</a> さんと <a href="https://twitter.com/mineroaoki">@mineroaoki</a> さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</p>
 
-<p><a href="https://twitter.com/con_mame">@con_mame</a> さんと <a href="https://twitter.com/mineroaoki">@mineroaoki</a> さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</p>
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+
+<ul>
+<li><a href="http://dev.mysql.com/">MySQL</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
