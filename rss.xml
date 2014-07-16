@@ -4,10 +4,10 @@
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
     <title>Admins Bar</title>
     <generator>Octopress</generator>
-    <link>http://adminsbar.mirakui.com</link>
+    <link>http://admins.bar</link>
     <itunes:author>Issei Naruta</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://adminsbar.mirakui.com/images/itunes-cover.png"/>
+    <itunes:image href="http://admins.bar/images/itunes-cover.png"/>
     <itunes:keywords>tech,technology,programming,ruby,web,mirakui,development,operations,devops,server,software</itunes:keywords>
     <itunes:subtitle>DevOps Podcast by mirakui</itunes:subtitle>
     <itunes:summary>DevOps関連の情報や、Webサービスのインフラ系技術について話すPodcastです。</itunes:summary>
@@ -31,9 +31,9 @@
 </ul>
 
 </description>
-      <link>http://adminsbar.mirakui.com/1/</link>
+      <link>http://admins.bar/1/</link>
       <pubDate>2014-07-05T16:33:17+09:00</pubDate>
-      <guid>http://adminsbar.mirakui.com/1</guid>
+      <guid>http://admins.bar/1</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
